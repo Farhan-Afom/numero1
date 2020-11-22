@@ -1,2 +1,2 @@
 # numero1
-Pedaso de Meirda
+Es una Pedaso de Meirda
